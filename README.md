@@ -4,7 +4,9 @@ Confirmed it's okay to run [this demo](https://reurl.cc/R1Emdr) in the [Jetson N
 
 
 </br>
-The awesome origin project is [jkjung-avt/tensorrt_demos: TensorRT MODNet, YOLOv4, YOLOv3, SSD, MTCNN, and GoogLeNet](https://github.com/jkjung-avt/tensorrt_demos)
+
+🌟&nbsp;The awesome origin project is
+[jkjung-avt/tensorrt_demos: TensorRT MODNet, YOLOv4, YOLOv3, SSD, MTCNN, and GoogLeNet](https://github.com/jkjung-avt/tensorrt_demos).
 
 
 </br>
